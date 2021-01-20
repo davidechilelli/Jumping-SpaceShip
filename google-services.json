@@ -1,35 +1,42 @@
 {
   "project_info": {
-    "project_number": "373316710573",
-    "firebase_url": "https://mobilecomputing-23cfc.firebaseio.com",
-    "project_id": "mobilecomputing-23cfc",
-    "storage_bucket": "mobilecomputing-23cfc.appspot.com"
+    "project_number": "794776345857",
+    "firebase_url": "https://starship-81cc1.firebaseio.com",
+    "project_id": "starship-81cc1",
+    "storage_bucket": "starship-81cc1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:373316710573:android:ade7f238ab455e1fe19624",
+        "mobilesdk_app_id": "1:794776345857:android:eee4f8577c1e27f82f8f00",
         "android_client_info": {
-          "package_name": "com.DefaultCompany.StarShip"
+          "package_name": "com.google.starship.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "373316710573-l43d1bg0s36n19imt7bu80ua6q0f3pm0.apps.googleusercontent.com",
+          "client_id": "794776345857-08a07dbn5di56tseaff7c78g31nepm9n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA4exfMjIMc1Q652t7vGwcPGsvuEAugg_Q"
+          "current_key": "AIzaSyBPw43yHgwtF9w3VH_dcqtn-2vw1AGLWfQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "373316710573-l43d1bg0s36n19imt7bu80ua6q0f3pm0.apps.googleusercontent.com",
+              "client_id": "794776345857-08a07dbn5di56tseaff7c78g31nepm9n.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "794776345857-m75lf4s4kcm8fgihl8j1n7bndkavbcid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.starship.ios"
+              }
             }
           ]
         }
