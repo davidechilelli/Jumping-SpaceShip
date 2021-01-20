@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373316710573",
+    "firebase_url": "https://mobilecomputing-23cfc.firebaseio.com",
+    "project_id": "mobilecomputing-23cfc",
+    "storage_bucket": "mobilecomputing-23cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373316710573:android:ade7f238ab455e1fe19624",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.StarShip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373316710573-l43d1bg0s36n19imt7bu80ua6q0f3pm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4exfMjIMc1Q652t7vGwcPGsvuEAugg_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373316710573-l43d1bg0s36n19imt7bu80ua6q0f3pm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
